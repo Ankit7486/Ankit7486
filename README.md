@@ -1,10 +1,6 @@
 - 👋 Hi, I’m @Ankit7486
 - 👀 I’m interested in coding and trading
-- 🌱 I’m currently learning C and JAVA
-- 💞️ I’m looking to collaborate on ...
-- 📫 Reach me at Linkedin www.linkedin.com/in/ankit-raj-4a26b932b
-- 😄 Pronouns: 
-- ⚡ Fun fact: I am intersted in cricket ...
+- ⚡ Fun fact: I like to play cricket ...
 
 <!---
 Ankit7486/Ankit7486 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -26,6 +22,10 @@ You can click the Preview link to take a look at your changes.
 ## 👨‍💻 Languages and Tools:
 
 ![C](https://img.shields.io/badge/-C-000000?style=flat&logo=c&logoColor=ffffff&labelColor=A8B9CC)
+![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java&logoColor=007396&labelColor=ffffff)
+![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5&logoColor=E34F26&labelColor=ffffff)
+![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=css3&logoColor=1572B6&labelColor=ffffff)
+![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-000000?style=flat&logo=kalilinux&logoColor=557C94&labelColor=ffffff)
 
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032&labelColor=ffffff)
 ![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=000000&labelColor=ffffff)
