@@ -22,7 +22,7 @@ You can click the Preview link to take a look at your changes.
 ## 👨‍💻 Languages and Tools:
 
 ![C](https://img.shields.io/badge/-C-000000?style=flat&logo=c&logoColor=ffffff&labelColor=A8B9CC)
-![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java&logoColor=007396&labelColor=ffffff)
+![Java](https://img.shields.io/badge/Java-000000?style=flat&logo=openjdk&logoColor=white&labelColor=ffffff)
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5&logoColor=E34F26&labelColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=css3&logoColor=1572B6&labelColor=ffffff)
 ![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-000000?style=flat&logo=kalilinux&logoColor=557C94&labelColor=ffffff)
