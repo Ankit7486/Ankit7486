@@ -1,83 +1,209 @@
-# 👋 Hi, I’m Ankit Raj (@Ankit7486)
-
-- 👀 Interested in **Coding**, **Trading**, and **Cybersecurity**  
-- 💻 Currently learning **Data Structures & Algorithms in Java**  
-- ⚡ Fun fact: I love playing cricket 🏏 and exploring new tech stuff  
-
----
-
-<div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ankit7486&theme=transparent" />
-</div>
-
-<div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ankit7486&theme=transparent" />
-</div>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ankit7486&label=Profile+Views&style=for-the-badge&color=grey" />
-</div>
-
----
-
-## 🚀 What I’m Doing Now  
-- 📚 Sharpening my **DSA skills in Java** ☕  
-- 🔧 Building small projects & solving problems daily  
-- 🌱 Exploring **Computer Networking & DBMS** alongside  
-
----
-
-## 👨‍💻 Languages and Tools:
-
-![C](https://img.shields.io/badge/-C-000000?style=flat&logo=c&logoColor=ffffff&labelColor=A8B9CC)
-![Java](https://img.shields.io/badge/Java-000000?style=flat&logo=openjdk&logoColor=white&labelColor=ffffff)
-![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5&logoColor=E34F26&labelColor=ffffff)
-![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=css3&logoColor=1572B6&labelColor=ffffff)
-![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-000000?style=flat&logo=kalilinux&logoColor=557C94&labelColor=ffffff)
-
-![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032&labelColor=ffffff)
-![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=000000&labelColor=ffffff)
-
----
-
-## 📊 GitHub Stats & Progress
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ankit7486&layout=compact&theme=dark)  
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Ankit7486&theme=dark&hide_border=true)  
-
-![Trophy](https://github-profile-trophy.vercel.app/?username=Ankit7486&theme=matrix&margin-w=10&margin-h=10)  
-
----
-
-## 🏆 LeetCode Stats  
-
 <div align="center">
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/Ankit7486?theme=dark&font=Karma&ext=contest)
+# 👋 Hey, I'm Ankit Raj
 
-</div>
+### 🚀 3rd Year CSE Student | MERN Stack Developer | DSA Enthusiast | GenAI Explorer
 
----
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=850&lines=400%2B+LeetCode+Problems+Solved+%F0%9F%94%A5;Building+Full-Stack+Web+Applications+%F0%9F%8C%90;MERN+Stack+Developer+%F0%9F%92%BB;Exploring+Generative+AI+%26+AI+Agents+%F0%9F%A4%96;Turning+Ideas+Into+Real+Products+%F0%9F%9A%80;Learn+%E2%86%92+Build+%E2%86%92+Improve+%F0%9F%94%A5" alt="Typing SVG" />
 
-## ☕ Connect with me! 
+<br/>
 
-[![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/ankit-raj-4a26b932b/)
-[![Instagram Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=instagram&logoColor=ffffff)](https://www.instagram.com/ankit.raj2508/)
-[![X Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=x&logoColor=ffffff)](https://x.com/AnkitRaj2508)  
-<br />
-<a href="mailto:ankit2508raj@gmail.com">
-  <img style="margin: 5px"
-    src="https://img.shields.io/badge/%F0%9F%93%A7%20Email-ankit2508raj%40gmail.com-brightgreen"
-    alt="emailAddress"
-  />
+<a href="https://www.linkedin.com/in/ankit-raj2508">
+<img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
+<a href="https://leetcode.com/u/Ankit7486">
+<img src="https://img.shields.io/badge/LeetCode-400%2B%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Ankit7486">
+<img src="https://img.shields.io/github/followers/Ankit7486?style=for-the-badge&logo=github"/>
+</a>
+
+</div>
+
 ---
 
-### ⚡ Fun Add-ons (Optional Crazy Stuff 😎)
-- 🐍 Snake Game eating your commits  
-- 🎵 Spotify “Now Playing” widget  
-- ⏱ Live coding activity tracker  
+## 🧑‍💻 About Me
+
+I'm **Ankit Raj**, a **3rd-year Computer Science student** passionate about
+**Software Engineering, Full-Stack Development, Problem Solving and
+Generative AI**.
+
+I enjoy solving challenging problems, understanding how things work,
+and turning ideas into **real-world applications**.
+
+I've solved **400+ problems on LeetCode**, which has helped me develop a
+strong foundation in **Data Structures & Algorithms, logical thinking,
+and problem-solving**.
+
+For development, my primary focus is the **MERN stack**, where I'm
+building my skills in creating modern and scalable full-stack applications.
+
+I'm also exploring **Generative AI, LLMs, RAG and AI Agents** and learning
+how intelligent systems can be integrated into real-world web applications.
+
+### 💭 My Philosophy
+
+> **Learn → Build → Break → Debug → Improve → Repeat. 🚀**
+
+I believe the best way to learn technology is by **building things,
+solving problems, and continuously improving.**
 
 ---
+
+# ⚡ What I'm Currently Doing
+
+- 🧠 Solving **Data Structures & Algorithms** consistently
+- 🔥 **400+ LeetCode problems solved**
+- 🌐 Building full-stack applications with the **MERN stack**
+- ⚛️ Improving my **React.js** skills
+- 🟢 Learning **Node.js & Express.js**
+- 🍃 Working with **MongoDB**
+- 🔐 Learning authentication, authorization and REST APIs
+- 🤖 Exploring **Generative AI & LLMs**
+- 🧠 Learning about **RAG and AI Agents**
+- 🏆 Participating in **hackathons**
+- 🚀 Building projects around real-world problems
+- 🎯 Preparing for **Software Engineering opportunities**
+
+---
+
+# 🛠️ Tech Stack
+
+### 💻 Languages
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=java,javascript,c,html,css" />
+</p>
+
+---
+
+### 🌐 MERN Stack
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs" />
+</p>
+
+---
+
+### 🗄️ Database & API
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postman" />
+</p>
+
+---
+
+### 🤖 AI / Generative AI
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python" />
+</p>
+
+**Currently exploring:**
+
+`Generative AI` • `LLMs` • `Prompt Engineering` • `RAG` • `AI Agents` • `Tool Calling`
+
+---
+
+### 🧰 Tools
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
+
+---
+
+# 🧠 DSA & Problem Solving
+
+## 🔥 400+ LeetCode Problems Solved
+
+Problem solving is a major part of my journey as a developer.
+
+I regularly practice **Data Structures & Algorithms** to improve my
+logical thinking, coding ability and technical interview skills.
+
+---
+
+# 🚀 Projects
+
+I believe the best way to learn is to **build real things**.
+
+Here are some of the projects I'm working on and learning from:
+
+---
+
+## 🌐 Full-Stack Web Applications
+
+I'm building applications using the **MERN stack** with a focus on
+clean UI, REST APIs, authentication, database design and real-world
+functionality.
+
+### ⚡ My Development Approach
+
+```text
+💡 Idea
+  ↓
+🎨 Design
+  ↓
+⚛️ React Frontend
+  ↓
+🟢 Node.js + Express
+  ↓
+🍃 MongoDB
+  ↓
+🔐 Authentication & APIs
+  ↓
+🚀 Deploy
+  ↓
+📈 Improve
+```
+---
+
+# 📊 GitHub Statistics
+
+<div align="center">
+
+[![GitHub Stats](./profile/stats.svg)](https://github.com/Ankit7486)
+
+[![Top Languages](./profile/top-langs.svg)](https://github.com/Ankit7486)
+
+</div>
+
+---
+
+# 🔥 GitHub Streak
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Ankit7486&theme=tokyonight&hide_border=true)](https://github.com/Ankit7486)
+
+</div>
+---
+
+
+---
+
+# 🐍 Watch My Contributions Get Eaten
+
+<div align="center">
+
+![Contribution Snake](https://raw.githubusercontent.com/Ankit7486/Ankit7486/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+---
+
+<div align="center">
+
+## 🎯 Next Milestones
+
+**500+ DSA** → **750+ DSA** → **Production Projects** → **Open Source** 🚀
+
+<br/>
+
+### Thanks for stopping by! 👋
+
+**Keep Building • Keep Solving • Keep Learning**
+
+</div>
